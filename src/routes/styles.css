@@ -1,0 +1,43 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+:root {
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    line-height: 1.05rem;
+    --platinum: #e5e5e5;
+    --silver: #c4c4c4;
+    --silver-2: #bebebe;
+    --outer-space: #464646;
+    --raisin-black: #282828;
+    --tan: #c6a690;
+
+    /*Color names*/
+    --text: var(--raising-black);
+    --subtext: var(--outer-space);
+    --subdued: var(--silver-2);
+    --disabled: var(--silver);
+    --background: var(--platinum);
+    --accent: var(--tan);
+    /* Color Variables */
+
+    --primary-color: #333;
+    /* Main text color */
+    --secondary-color: #666;
+    /* Secondary text color */
+    --background-color: #f9f9f9;
+    /* Background for file info */
+    --error-color: #e74c3c;
+    /* Error message color */
+    --tooltip-background-color: #333;
+    /* Tooltip background color */
+    --tooltip-text-color: #fff;
+    /* Tooltip text color */
+    --hover-color: #999;
+    /* Hover color for borders/icons */
+    /* Hover color for borders/icons */
+    background-color: #fff;
+}
